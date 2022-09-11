@@ -1,0 +1,141 @@
+
+.chungcu {
+    width: 400px;
+    height:270px;
+}
+.f-inter {
+    font-family: 'Inter', sans-serif;
+}
+.f-30{
+    font-size: 27px;
+}
+.f-24{
+    font-size: 24px;
+}
+.f-14{
+    font-size: 14px;
+}
+.f-16{
+    font-size: 16px;
+}
+.f-18{
+    font-size: 18px;
+}
+.color333 {
+    color: #333333;
+}
+.btn {
+    padding:0px;
+}
+.color666 {
+    color: #666666;
+}
+.colorred {
+    color: #ff0000;
+}
+.i-center {
+    display:inline;position:absolute;left: 14%;top: 40%;
+}
+.cover {
+    background-size: cover;
+}
+.b-top {
+    letter-spacing: -0px;
+    padding-left:24px !important;
+}
+.img-af:before {
+    content: 'VN';
+}
+.img-af:after {
+    content: url('img/ar.png');
+}
+.wrap-img {
+    padding-top:30px;
+    padding-bottom:5px;
+    padding-right:5px;
+    padding-left:5px;
+}
+.wrap-img:hover  {
+  background-color: #f8f8f8;
+}
+.wrap-img2 {
+    padding-top:30px;
+    padding-bottom:5px;
+    padding-right:5px;
+    padding-left:5px;
+    background-color: #f8f8f8;
+}
+.wrap-img2:hover  {
+  background-color: #f8f8f8;
+}
+.img-af:before {
+    content: 'VN';
+}
+.img-af:after {
+    content: url('img/ar.png');
+}
+
+.top-ele {
+    z-index: 1032;
+}
+.rever {
+    flex-direction: column-reverse;
+}
+.mb-h {
+    height:155% ;
+}
+.test {
+    opacity: 0.6;
+    transition: all 0.7s;
+    position: fixed;
+}
+.logo-d{
+    display:flex;
+}
+.test2 {
+    transition: all 0.8s;
+    position: fixed;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  outline: black;
+  border: 1px solid #e02229;
+  background-color: #e02229;
+  opacity: 0;
+  transition: all 1s;
+}
+.carousel-control-prev-icon:hover,
+.carousel-control-next-icon:hover {
+    opacity: 1;
+}
+.hover-me2 {
+    background-color: white;
+    color:gray !important;
+    border: 1px solid gray;
+}
+.hover-me2:hover {
+    background-color: white;
+    color:gray !important;
+    border: 1px solid gray;
+}
+.cl-gray {
+    color:gray;
+}
+.link-h {
+    color:black;
+}
+.link-h:hover {
+    color:#999999;
+}
+    html {
+    }
+    body {
+        overflow-x: hidden;
+    }
+    html,body {
+        font-family: 'Inter', sans-serif;
+        scroll-behavior: smooth;
+    }
+    input {
+        height: 1px !important;
+    }
